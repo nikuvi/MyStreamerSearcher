@@ -20,6 +20,7 @@ Nuestro programa le va a permitir:
 
 * Generar una lista de películas favoritas, poder ver dicha lista, agregar y eliminar contenido de la misma.
 
+![image](https://github.com/user-attachments/assets/30febe93-32c6-409a-9113-a61a407381ce)
 
 <!-- TechStack -->
 ## :space_invader: Herramientas

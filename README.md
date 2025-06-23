@@ -2,9 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/MyStreamerSearcher?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/MyStreamerSearcher?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/nikuvi/MyStreamerSearcher?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nikuvi/MyStreamerSearcher?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nikuvi/MyStreamerSearcher?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/nikuvi/MyStreamerSearcher?style=for-the-badge) 
+![GitHub last commit](https://img.shields.io/github/last-commit/nikuvi/MyStreamerSearcher?style=for-the-badge)
 
 > Como proyecto final del curso de Python, nos pusimos el objetivo de crear un programa donde tengamos el acceso rápido y seguro de los próximos estrenos de películas. Por esto creamos MyStreamerSearcher, ya que este programa nos ayudará a encontrar lo que buscabamos, de una forma sencilla e intuitiva.
 

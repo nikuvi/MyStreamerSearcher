@@ -375,6 +375,6 @@ while contador <= 3:
                 case _: #en caso de que 
                     print(colorama.Fore.RED +"ERROR".center(125) + "\n" + "Por favor elija una opción valida.".center(125) + colorama.Fore.RESET)
     elif contador <= 3:
-        print(colorama.Fore.RED + colorama.Style.BRIGHT + "=" * 125 + "\n" + "|ACCESO DENEGADO|".center(125) + f"POR FAVOR INTENTE NUEVAMENTE. (Intento {contador} de {3})".center(125) + "\n" + "=" * 125 + colorama.Fore.RESET)
+        print(colorama.Fore.RED + colorama.Style.BRIGHT + "=" * 125 + "\n" + "|ACCESO DENEGADO|".center(125) + "\n" + f"POR FAVOR INTENTE NUEVAMENTE. (Intento {contador} de {3})".center(125) + "\n" + "=" * 125 + colorama.Fore.RESET)
     elif contador >= 3:
         print(colorama.Fore.RED + colorama.Style.BRIGHT + "=" * 125 + "\n" + "|ACCESO BLOQUEADO|".center(125) + "\n" + "HA EXCEDIDO EL NÚMERO MÁXIMO DE INTENTOS.".center(125) + "\n" + "=" * 125 + colorama.Fore.RESET)
